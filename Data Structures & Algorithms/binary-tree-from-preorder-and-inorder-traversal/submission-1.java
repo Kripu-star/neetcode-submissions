@@ -31,7 +31,7 @@ class Solution {
         }
         return dfs(preorder,0,inorder.length-1 );
         
-        //T.C. - O(n*n)
-        //S.C. - O(n*n)
+        //T.C. - O(n)
+        //S.C. - O(n)
     }
 }
